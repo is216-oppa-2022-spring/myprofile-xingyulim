@@ -14,5 +14,5 @@ Each week, you need to **update README** and describe the new changes you've imp
 * Applied CSS I learned in class to my web pages.
 
 ## (Week 3) CSS to Further Beautify My Web Pages & Added Youtube
-* Beautify my web pages with attributes such as border, background, margin
+* Beautify my web pages with properties such as border, background, margin
 * Added youtube with my favourite travel destination
