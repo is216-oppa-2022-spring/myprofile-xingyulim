@@ -19,3 +19,4 @@ Each week, you need to **update README** and describe the new changes you've imp
 
 ## (Week 4) My First bootstrap experience
 * Used Bootstrap features such as buttons and navbars
+* Updated Week 4 Bootstrap with carousel
