@@ -17,6 +17,9 @@ Each week, you need to **update README** and describe the new changes you've imp
 * Beautify my web pages with properties such as border, background, margin
 * Added youtube with my favourite travel destination
 
+## (Week 3) CNY Homework
+* Used Bootstrap features on Justin Bieber and Krazy Tuition Centre
+
 ## (Week 4) My First bootstrap experience
 * Used Bootstrap features such as buttons and navbars
 * Updated Week 4 Bootstrap with carousel
